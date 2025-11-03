@@ -8,7 +8,7 @@ It includes key **KPI indicators** displaying **median salaries and job count**,
   <img src="./dashboard_preview.png" alt="Dashboard Preview" width="800">
 </p>
 
-📈 How to Use
+## 📈 How to Use
 
 1. Download and open the Excel file.  
 2. Use the drop-down menus and map filters to explore salary data.  
